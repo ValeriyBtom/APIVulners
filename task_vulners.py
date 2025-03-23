@@ -8,7 +8,7 @@ import csv
 
 url1 = 'https://vulners.com/api/v3/search/lucene/'
 url2 = 'https://vulners.com/api/v3/burp/softwareapi/'
-api_key = 'DJUYBQZNN4ZO6UK4KBE1DKF4QX4AKTBKMJGG0JHKO3YT5MISKHLXOZ7Z791SKBV9' # Replace <Your-API-Key-Here> with actual API key
+api_key = 'qweqwr' # Replace <Your-API-Key-Here> with actual API key
 Soft_api = [
   {"Program": "LibreOffice", "Version": "6.0.7"},
   {"Program": "7-Zip", "Version": "18.03"},
